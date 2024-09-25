@@ -1,17 +1,14 @@
 ---
 # Display name
-title: 吳健雄
+title: Vedaant Jain
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Vedaant
+last_name: Jain
 
 # Status emoji
-status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,92 +17,109 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Undergrad
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: UIUC
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:vvjain3@illinois.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ethvedbitdesjan/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/vedaant-jain/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=NieW_y4AAAAJ&hl=en
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Trustworthy Machine Learning
+  - Machine Learning for Biology
+  - Generative Modeling
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BS Mathematics&Computer Science
+    institution: University of Illinois Urbana-Champaign
+    date_start: 2022-16-Aug
+    date_end: Present
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      GPA: 3.98/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Trustworthy Machine Learning
+      - Embodied Natural Language Processing
+      - Compiler Construction
+      - System Programming
+      - Numerical Analysis(Methods)
+      - IoT & Wireless Sensing
+      - Formal Methods
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Software(ML) Engineering Intern
+    company_name: Metaphor Data Inc.
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-05-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Developed comprehensive testing framework for 3 LLM and RAG pipelines (search, automated descriptions, Slack bots)
+      - Pioneered first CLI tool and 4 new API endpoints for 3 batch transactions across 5 data asset types
+      - Leveraged MongoDB, TypeScript, Python, Jest, CI/CD, AWS Lambda, Terraform, Docker, and GraphQL
+  - position: Undergraduate Researcher
+    company_name: Focal Lab - UIUC
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-08-01
+    date_end: ''
+    summary: |2-
+      - Developed novel method on Certification of Reasoning using Knowledge Graphs for LLMs
+      - Co-authored research paper: "QuaCer-C: Quantitative Certification of Knowledge Comprehension in LLMs"
+  - - position: Head of AI/ML, Tech Lead, SWE
+    company_name: Disruption Lab - UIUC
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-08-01
+    date_end: 2024-05-01
+    summary: |2-
+      - Led and collaborated across 10 AI project teams with 100+ students for clients including AMD
+      - Projects spanned LLM-guided web crawling, virtual classrooms, chatbot development, and malware detection
+      - Worked with PyTorch DDP for distributed training on AWS SageMaker; used hardware counters for malware detection
+  - position: Undergraduate Researcher
+    company_name: Kreiman Lab - Harvard Medical School
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-06-01
+    date_end: 2024-06-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Introduced novel dataset on humor detection for Vision and Vision-Language models
+      - Gained experience with DeepSpeed and Huggingface accelerate for distributed model training
+      - Co-authored research paper: "Is AI fun? HumorDB: a curated dataset and benchmark to investigate graphical humor"
+
+  - position: SPIN Intern
+    company_name: National Center for Supercomputing Applications - UIUC
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-08-01
+    date_end: 2024-05-01
+    summary: |
+      - Presented poster on using Diffusion Models and Inpainting for Parkinson's disease simulation on facial features
+      - Achieved 6% improvement in simulation accuracy
+  - position: Software Developer
+    company_name: UIUC TheorieLearn
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-01-01
+    date_end: 2024-05-01
+    summary: |
+      - Full stack development of 12 new resources to aid learning in the Algorithms class at UIUC
+      - Developed interactive web platform: https://theorielearn.github.io/
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -114,73 +128,35 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: C++
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: code-bracket
+      - name: PyTorch
         description: ''
         percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
+        icon: fire
+      - name: Machine Learning
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+        percent: 90
+        icon: chart-bar
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an undergraduate at UIUC majoring in Mathematics & Computer Science. 
+My research focuses on trustworthy machine learning, model evaluations, and ML applications in biology. I have contributed to projects on quantitative certification of LLMs, humor detection benchmarks for vision models, and diffusion modeling for disease progression simulation. For more information, please look in Projects page.
+
+Currently, I am contiuing to work on certification in LLMs along with neural network verification. Additionally, I am exploring generative modeling for antibody design using Cryo-EM super-resolution techniques.
+
+I complement my ML research background with software engineering experience, having interned at Metaphor Data and led AI projects in UIUC's student-run Disruption Lab as Head of Tech.
+
+I try to complement my ML experience with diverse coursework spanning compilers, formal methods, computational social science, and systems programming, providing a way to learn.
+
+I am working towards a goal of reliable machine learning that are innovative, reliable, and impactful at scale across domains and industries.
