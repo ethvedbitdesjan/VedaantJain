@@ -2,11 +2,10 @@
 title: LLMs Mimic Reddit
 external_link: https://drive.google.com/file/d/1YwwlxxUZqJPKe-9yeYiuzK_q5-hp8-Q0/view?usp=sharing
 tags:
-
-Natural Language Processing
-Social Computing
-Large Language Models
-Content Moderation
+- Natural Language Processing
+- Social Computing
+- Large Language Models
+- Content Moderation
 
 ---
 

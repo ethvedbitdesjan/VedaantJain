@@ -48,8 +48,8 @@ interests:
 education:
   - area: BS Mathematics&Computer Science
     institution: University of Illinois Urbana-Champaign
-    date_start: 2022-16-Aug
-    date_end: Present
+    date_start: 2022-08-16
+    date_end: ""
     summary: |
       GPA: 3.98/4.0
       
