@@ -66,12 +66,13 @@ work:
     company_name: Metaphor Data Inc.
     company_url: ''
     company_logo: ''
-    date_start: 2024-05-01
-    date_end: ''
+    date_start: 2024-05-15
+    date_end: 2024-08-15
     summary: |2-
-      - Developed comprehensive testing framework for 3 LLM and RAG pipelines (search, automated descriptions, Slack bots)
-      - Pioneered first CLI tool and 4 new API endpoints for 3 batch transactions across 5 data asset types
-      - Leveraged MongoDB, TypeScript, Python, Jest, CI/CD, AWS Lambda, Terraform, Docker, and GraphQL
+       - Developed a comprehensive testing framework for 3 LLM and RAG pipelines, leveraging MongoDB, TypeScript, Jest,
+          CI/CD, AWS, and Terraform, and identified 2 bugs, resulting in a 20% performance improvement
+       - Pioneered the development of the first CLI tool and 4 new API endpoints, enabling 3 batch transactions across 5 data
+          asset types, and achieving a 10x increase in efficiency. Utilized GraphQL and Python, in addition to TypeScript
   - position: Undergraduate Researcher
     company_name: Focal Lab - UIUC
     company_url: ''
@@ -79,8 +80,7 @@ work:
     date_start: 2023-08-01
     date_end: ''
     summary: |2-
-      - Developed novel method on Certification of Reasoning using Knowledge Graphs for LLMs
-      - Co-authored research paper: "QuaCer-C: Quantitative Certification of Knowledge Comprehension in LLMs"
+      - Developed novel method on Certification of Reasoning using Knowledge Graphs for LLMs, accepted at SetLLM@ICLR
   - - position: Head of AI/ML, Tech Lead, SWE
     company_name: Disruption Lab - UIUC
     company_url: ''
@@ -100,7 +100,7 @@ work:
     summary: |
       - Introduced novel dataset on humor detection for Vision and Vision-Language models
       - Gained experience with DeepSpeed and Huggingface accelerate for distributed model training
-      - Co-authored research paper: "Is AI fun? HumorDB: a curated dataset and benchmark to investigate graphical humor"
+      - Preprint on ArXiV
 
   - position: SPIN Intern
     company_name: National Center for Supercomputing Applications - UIUC
