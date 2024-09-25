@@ -81,7 +81,7 @@ work:
     date_end: ''
     summary: |2-
       - Developed novel method on Certification of Reasoning using Knowledge Graphs for LLMs, accepted at SetLLM@ICLR
-  - - position: Head of AI/ML, Tech Lead, SWE
+  - position: Head of AI/ML, Tech Lead, SWE
     company_name: Disruption Lab - UIUC
     company_url: ''
     company_logo: ''
