@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "HumorDB"
 authors:
 - admin
 - Felipe Feitosa

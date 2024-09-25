@@ -150,13 +150,21 @@ skills:
 
 ## About Me
 
-I am an undergraduate at UIUC majoring in Mathematics & Computer Science. 
-My research focuses on trustworthy machine learning, model evaluations, and ML applications in biology. I have contributed to projects on quantitative certification of LLMs, humor detection benchmarks for vision models, and diffusion modeling for disease progression simulation. For more information, please look in Projects page.
+I'm an undergraduate at the UIUC, pursuing a degree in Mathematics & Computer Science. My research interests lie at the intersection of trustworthy machine learning, model evaluation, and ML applications in biology. My work includes:
 
-Currently, I am contiuing to work on certification in LLMs along with neural network verification. Additionally, I am exploring generative modeling for antibody design using Cryo-EM super-resolution techniques.
+- Quantitative certification of Large Language Models (LLMs)
+- Developing humor detection benchmarks for vision models
+- Applying diffusion modeling to disease progression simulation
 
-I complement my ML research background with software engineering experience, having interned at Metaphor Data and led AI projects in UIUC's student-run Disruption Lab as Head of Tech.
+Currently, I'm advancing my work on LLM certification and neural network verification. I'm also venturing into generative modeling for antibody design, leveraging Cryo-EM super-resolution techniques.
 
-I try to complement my ML experience with diverse coursework spanning compilers, formal methods, computational social science, and systems programming, providing a way to learn.
+My academic pursuits are complemented by practical experience:
+- Software (ML) Engineering Intern at Metaphor Data
+- Head of Tech at UIUC's Disruption Lab(student run org), leading multiple AI projects and serving clients like AMD.
 
-I am working towards a goal of reliable machine learning that are innovative, reliable, and impactful at scale across domains and industries.
+
+I don't just stick to ML – I like to mix things up, so I take a diverse set of courses. For example, Compiler Construction, formal methods, computational social science, and systems programming.
+
+**I'm seeking internship opportunities in machine learning and software engineering for Spring and Summer 2025**. If you think I'd be a good fit for your team, please [✉️ reach out via email](mailto:vvjain3@illinois.edu).
+
+For more details on my projects and research, check out my Projects page!
