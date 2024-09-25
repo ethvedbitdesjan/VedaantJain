@@ -10,6 +10,7 @@ tags:
 
 This project explores the application of Curriculum Learning to improve the performance of GPT-2 models in Embodied Natural Language Processing tasks using the ALFWorld dataset. We developed curricula for both Action Modeling and Reinforcement Learning stages, demonstrating significant improvements in task success rates and action efficiency.
 
+Authors: Bohan Liu, Vedaant Jain, Aarohi Gupta
 <!--more-->
 
 Key aspects of this research include:
