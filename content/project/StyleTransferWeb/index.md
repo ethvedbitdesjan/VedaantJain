@@ -7,8 +7,7 @@ tags:
   - Rust
   - PyTorch
   - Web Development
-start_date: 2022-08-10
-end_date: 2022-12-10
+date: 2022-08-10
 ---
 
 This project implements artistic style transfer using Convolutional Neural Networks (CNNs) in Rust. It combines the content of one image with the artistic style of another, creating unique visual outputs. The system is deployed as a web application, allowing users to easily interact with the model through a REST API.
