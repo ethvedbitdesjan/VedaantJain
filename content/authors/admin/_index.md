@@ -69,10 +69,8 @@ work:
     date_start: 2024-05-15
     date_end: 2024-08-15
     summary: |2-
-       - Developed a comprehensive testing framework for 3 LLM and RAG pipelines, leveraging MongoDB, TypeScript, Jest,
-          CI/CD, AWS, and Terraform, and identified 2 bugs, resulting in a 20% performance improvement
-       - Pioneered the development of the first CLI tool and 4 new API endpoints, enabling 3 batch transactions across 5 data
-          asset types, and achieving a 10x increase in efficiency. Utilized GraphQL and Python, in addition to TypeScript
+       - Developed comprehensive testing framework for 3 LLM and LangChain pipelines (search, automated descriptions, Slack bots). Identified 2 critical bugs and improved performance by 20%. Leveraged MongoDB, TypeScript, Jest, CI/CD, AWS, Terraform, and Langchain for efficient retrieval and robust system architecture.
+       - Pioneered first CLI tool and 4 new API endpoints for 3 batch transactions across 5 data asset types, increasing efficiency by 10x. Implemented using GraphQL, Python, Pydantic, and TypeScript to ensure flexible querying and type-safe integration.
   - position: Undergraduate Researcher
     company_name: Focal Lab - UIUC
     company_url: ''
@@ -88,9 +86,12 @@ work:
     date_start: 2022-08-01
     date_end: 2024-05-01
     summary: |2-
-      - Led and collaborated across 10 AI project teams with 100+ students for clients including AMD
-      - Projects spanned LLM-guided web crawling, virtual classrooms, chatbot development, and malware detection
-      - Worked with PyTorch DDP for distributed training on AWS SageMaker; used hardware counters for malware detection
+      - Led and collaborated across 10 AI project teams with 100+ students, achieving a 91% project success rate for clients including AMD. Projects spanned:
+        1. LLM-guided web crawling: Implemented scalable data collection automated pipeline with custom scrappers and Mistral-7b for intelligent navigation.
+        2. Virtual classrooms: Developed a virtual classroom using Unity to support interactive teaching. Developed chatbots with LlamaIndex and llama-2 for answering students questions using avatars.
+        3. Malware detection: Collected Novel Dataset for AMD with hardware counters on systems with and without malware. Implemented a baseline LSTM for identifying randomware with 70% accuracy.
+
+      - Implemented distributed training on AWS SageMaker using PyTorch DDP, reducing LLM fine-tuning time.
   - position: Undergraduate Researcher
     company_name: Kreiman Lab - Harvard Medical School
     company_url: ''
@@ -118,8 +119,8 @@ work:
     date_start: 2024-01-01
     date_end: 2024-05-01
     summary: |
-      - Full stack development of 12 new resources to aid learning in the Algorithms class at UIUC
-      - Developed interactive web platform: https://theorielearn.github.io/
+      - Developed 12 educational resources using JavaScript, HTML, Python for aiding student learning online for the Algorithms Class at UIUC. https://theorielearn.github.io/
+      - Helped Fix 5 known issues to improve student feedback.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
