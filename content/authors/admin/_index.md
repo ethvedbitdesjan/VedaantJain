@@ -140,6 +140,8 @@ skills:
         description: ''
         percent: 90
         icon: chart-bar
+      - name: Formal Methods
+        icon: pencil
 
 # Awards.
 #   Add/remove as many awards below as you like.
