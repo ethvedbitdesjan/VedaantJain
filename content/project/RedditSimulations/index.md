@@ -6,7 +6,8 @@ tags:
 - Social Computing
 - Large Language Models
 - Content Moderation
-date: 2024-05-10
+start_date: 2024-01-10
+end_date: 2024-05-10
 ---
 
 This project explores the potential of Large Language Models (LLMs) to accurately simulate user behavior in Reddit communities. We investigate if LLMs can effectively mimic the communication patterns of specific users when provided with their comment history as context, focusing on the r/science subreddit.
