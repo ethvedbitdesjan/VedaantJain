@@ -2,16 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/event/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://example.com/tags/formal-certification-specifications/</loc>
+    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://example.com/tags/knowledge-graphs/</loc>
+    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/llms/</loc>
+    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/</loc>
+    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/quacer-c/</loc>
+    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/computer-vision/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/content-moderation/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/curriculum-learning/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/embodiedcurriculum/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/diffusion-models/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/embodied-ai/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/generative-modeling/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/image-classification/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/large-language-models/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/redditsimulations/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/natural-language-processing/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/parkinsonsimulation/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/reinforcement-learning/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/social-computing/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tags/certification/</loc>
@@ -19,10 +91,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tags/knowledge-comprehension/</loc>
-    <lastmod>2024-02-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/large-language-models/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -42,8 +110,20 @@
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2024-02-15T00:00:00+00:00</lastmod>
+    <loc>https://example.com/tags/benchmarks-and-datasets/</loc>
+    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/humordb/</loc>
+    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/multimodal-models/</loc>
+    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/scene-understanding/</loc>
+    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/get-started/</loc>
@@ -98,12 +178,44 @@
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <loc>https://example.com/tags/document-understanding/</loc>
+    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>https://example.com/tags/information-extraction/</loc>
+    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/resumeextraction/</loc>
+    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/scholar-profiling/</loc>
+    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/neural-style-transfer/</loc>
+    <lastmod>2022-12-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/styletransferweb/</loc>
+    <lastmod>2022-12-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/pytorch/</loc>
+    <lastmod>2022-12-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/rust/</loc>
+    <lastmod>2022-12-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/web-development/</loc>
+    <lastmod>2022-12-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication_types/article/</loc>
@@ -114,7 +226,7 @@
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tags/computer-vision/</loc>
+    <loc>https://example.com/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -122,115 +234,22 @@
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/event/example/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication_types/article-journal/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/source-themes/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/benchmarks-and-datasets/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tags/c&#43;&#43;/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tags/content-moderation/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/teaching/python/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tags/curriculum-learning/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/project/embodiedcurriculum/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/diffusion-models/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/document-understanding/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/embodied-ai/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/formal-certification-specifications/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/generative-modeling/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/project/humordb/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/image-classification/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/information-extraction/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/knowledge-graphs/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/llms/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/project/redditsimulations/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/project/resumeextraction/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/multimodal-models/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/natural-language-processing/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/neural-style-transfer/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/project/styletransferweb/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/project/parkinsonsimulation/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/project/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/pytorch/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/project/quacer-c/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/reinforcement-learning/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/rust/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/scene-understanding/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/scholar-profiling/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/social-computing/</loc>
+    <loc>https://example.com/event/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/teaching/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/web-development/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
