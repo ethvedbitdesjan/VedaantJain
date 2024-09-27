@@ -142,6 +142,10 @@ skills:
         icon: chart-bar
       - name: Formal Methods
         icon: pencil
+      - name: Compilers
+        icon: gear
+      - name: Wireless Sensing
+        icon: book
 
 # Awards.
 #   Add/remove as many awards below as you like.
