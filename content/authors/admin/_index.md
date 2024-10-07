@@ -168,6 +168,7 @@ Currently, I'm advancing my work on LLM certification and neural network verific
 My academic pursuits are complemented by practical experience:
 - Software (ML) Engineering Intern at Metaphor Data
 - Head of Tech at UIUC's Disruption Lab(student run org), leading multiple AI projects and serving clients like AMD.
+- Software Developer at UIUC TheorieLearn
 
 
 I don't just stick to ML – I like to mix things up, so I take a diverse set of courses. For example, Compiler Construction, formal methods, computational social science, and systems programming.
