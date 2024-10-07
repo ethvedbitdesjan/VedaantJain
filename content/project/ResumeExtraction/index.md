@@ -7,7 +7,7 @@ tags:
   - Information Extraction
   - Document Understanding
   - Scholar Profiling
-date: 2022-11-10
+date: 2023-05-10
 ---
 
 This project addresses the challenge of extracting structured information from academic resumes, which often span multiple pages and contain complex, domain-specific content. We developed a novel approach combining document layout analysis and sequence tagging to accurately segment and extract key information from various resume sections.
